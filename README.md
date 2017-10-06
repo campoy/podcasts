@@ -30,10 +30,12 @@ Here you have all of them:
 - Catástrofe UV
 - Changelog
 - Coding Blocks
+- [Curious Minds](https://www.cmpod.net/)
 - Datanauts
 - Decrypted Technology
 - Fivethirtyeight
 - Freakonomics
+- [Full Stack Radio](http://www.fullstackradio.com/)
 - GolangShow
 - Greater Than Code
 - Hardcore Story
@@ -43,6 +45,7 @@ Here you have all of them:
 - Hidden Brain
 - Impact Theory
 - Inquiring minds
+- [Invisibilia](http://www.npr.org/podcasts/510307/invisibilia)
 - Jocko Willink
 - Joe Rogan
 - Latino USA
@@ -52,7 +55,9 @@ Here you have all of them:
 - Mom Stuff Podcast
 - More Perfect (Radiolab)
 - No Dumb Questions
+- [No Such Thing As a Fish](http://qi.com/podcast)
 - Nordic Frontier
+- [Planet Money](http://www.npr.org/sections/money/127413729/podcast/)
 - PodCtl
 - [Pod Save America](https://art19.com/shows/pod-save-america) on [iTunes](https://itunes.apple.com/us/podcast/pod-save-america/id1192761536?mt=2) and [stitcher](https://www.stitcher.com/podcast/cadence13/pod-save-america)
 - Recode Media
@@ -68,6 +73,7 @@ Here you have all of them:
 - Software Engineering Radio
 - Stay Tuned with Preet
 - Stuff You Should Know
+- [Surprisingly Awesome](https://gimletmedia.com/surprisingly-awesome/)
 - The Cloudcast
 - The Daily
 - The Economist
