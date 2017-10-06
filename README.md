@@ -32,10 +32,12 @@ Here you have all of them:
 - Coding Blocks
 - Datanauts
 - Decrypted Technology
+- Developers on Fire
 - Fivethirtyeight
 - Freakonomics
 - GolangShow
 - Greater Than Code
+- Hanselminutes
 - Hardcore Story
 - Harmontown
 - Hello Internet
@@ -47,6 +49,7 @@ Here you have all of them:
 - Joe Rogan
 - Latino USA
 - Lawfare
+- Les Cast Codeurs
 - MetaLearn
 - Mission to Zyxx
 - Mom Stuff Podcast
@@ -66,6 +69,7 @@ Here you have all of them:
 - Soft Skills Podcast
 - Software Engineering Daily
 - Software Engineering Radio
+- Space Rocket History
 - Stay Tuned with Preet
 - Stuff You Should Know
 - The Cloudcast
