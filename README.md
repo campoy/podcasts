@@ -30,6 +30,8 @@ Here you have all of them:
 - Catástrofe UV
 - Changelog
 - Coding Blocks
+- Common Sense with Dan Carlin
+- Cortex
 - Datanauts
 - Decrypted Technology
 - Fivethirtyeight
