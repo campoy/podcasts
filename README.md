@@ -36,7 +36,7 @@ Here you have all of them:
 - Freakonomics
 - GolangShow
 - Greater Than Code
-- Hardcore Story
+- Hardcore History
 - Harmontown
 - Hello Internet
 - Hello Tech Pros
@@ -44,7 +44,7 @@ Here you have all of them:
 - Impact Theory
 - Inquiring minds
 - Jocko Willink
-- Joe Rogan
+- The Joe Rogan Experience
 - Latino USA
 - Lawfare
 - MetaLearn
@@ -59,7 +59,7 @@ Here you have all of them:
 - Reverb Radio
 - Risky Business
 - Root Access on [iTunes](https://itunes.apple.com/ca/podcast/root-access/id1084862019?mt=2https://itunes.apple.com/ca/podcast/root-access/id1084862019?mt=2)
-- Sam Harris
+- Waking Up with Sam Harris
 - Science of Survival
 - Security Now
 - Smarter Every Day
