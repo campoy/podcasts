@@ -36,7 +36,7 @@ Here you have all of them:
 - Freakonomics
 - GolangShow
 - Greater Than Code
-- Hardcore Story
+- [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
 - Harmontown
 - Hello Internet
 - Hello Tech Pros
